@@ -7,5 +7,4 @@
 	url = https://github.com/Kkevsterrr/geneva/
 [submodule "zmap_multiple_probes"]
 	path = zmap_multiple_probes
-	url = https://github.com/snourin/zmap
-	branch = https
+	url = https://github.com/snourin/weaponizing-censors
